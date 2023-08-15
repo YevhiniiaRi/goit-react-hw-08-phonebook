@@ -21,10 +21,10 @@ export const ContactItem = styled.li`
 export const DeleteBtn = styled(MatButton)`
   padding-top: 7px;
   margin-top: auto;
-  border-radius: 10px;
+  border-radius: 5px;
 
   &:hover {
-    background-color: orange;
-    color: black;
+    background-color: green;
+    
   }
 `;

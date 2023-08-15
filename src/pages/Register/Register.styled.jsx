@@ -29,9 +29,9 @@ export const RegisterButton = styled(LogInBtn)`
   max-width: fit-content;
   margin: 0 auto;
   margin-top: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   &:hover {
-    background-color: orange;
-    color: black;
+    background-color: green;
+   
   }
 `;

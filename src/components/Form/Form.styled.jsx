@@ -43,10 +43,9 @@ export const FormNumberInput = styled(MatInput)`
 export const FormSubmitBtn = styled(MatButton)`
   display: block;
   width: max-content;
-  border-radius: 10px;
+  border-radius: 5px;
 
   &:hover {
-    background-color: orange;
-    color: black;
+    background-color: green;
   }
 `;

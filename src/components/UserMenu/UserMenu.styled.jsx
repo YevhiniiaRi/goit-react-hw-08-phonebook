@@ -20,7 +20,7 @@ export const MenuButton = styled(MlButton)`
   border-radius: 10px;
   padding-top: 5px;
   &:hover {
-    background-color: orange;
-    color: black;
+    background-color: green;
+    
   }
 `;

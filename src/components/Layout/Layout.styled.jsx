@@ -18,7 +18,7 @@ export const LinkStyle = styled(navLink)`
 
   &:hover,
   :focus {
-    color: red;
+    color: green;
   }
 `;
 

@@ -18,11 +18,11 @@ const ContactsPage = () => {
   return (
     <>
       <Container>
-        <Title>My Phonebook</Title>
+        <Title>Phonebook</Title>
         <Form />
         {contacts.length !== 0 && (
           <>
-            <ContactListTitle> My contacts list</ContactListTitle>
+            <ContactListTitle> Contacts list</ContactListTitle>
             <Filter />
             <ContactsList />
           </>
